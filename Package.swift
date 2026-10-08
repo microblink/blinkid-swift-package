@@ -44,8 +44,8 @@ let package = Package(name: "BlinkID",
                       targets: [
                         .binaryTarget(
                             name: "BlinkID",
-                            url: "https://github.com/BlinkID/blinkid-ios/releases/download/v8001.0.1/BlinkID.xcframework.zip",
-                            checksum: "508bd9930908151e40f063f612ef60a450702b274daecf97ce6c35034997d89c")
+                            url: "https://github.com/BlinkID/blinkid-ios/releases/download/v8002.0.0/BlinkID.xcframework.zip",
+                            checksum: "d9074fc7c674ebd695f9b2dd7844625ca28ac51efa8d15045adf593af44598cd")
                       ],
                       swiftLanguageModes: [.v5]
 )
